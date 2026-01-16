@@ -207,9 +207,30 @@
 
 ## Let's Collaborate
 
-Build Real • Solve Problems • Leave Impact
+<strong>Build Real • Solve Problems • Leave Impact</strong>
 
-<div align="center"> <table> <tr align="center"> <td> <a href="https://harlee.pro" target="_blank"> <img src="https://img.icons8.com/color/48/000000/chrome--v1.png" width="40"/><br> <b>Portfolio</b> </a> </td> <td> <a href="https://www.linkedin.com/in/hari-haran-z" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/><br> <b>LinkedIn</b> </a> </td> </tr> </table>
+<div align="center">
+<table>
+  <tr align="center">
+    <td>
+      <a href="https://gslikith.figma.site/" target="_blank">
+        <b>Figma Portfolio</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/likith-gs" target="_blank">
+        <b>LinkedIn</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://gslikith.figma.site/" target="_blank">
+        <b>Mail</b>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
 
 Built with dedication by Likith G S
 
