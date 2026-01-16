@@ -1,36 +1,39 @@
-# About Me
+## About Me
 
-<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.08); border-radius:12px;">
+<table align="center" width="100%" style="border-collapse:separate; border-spacing:12px;">
   <tr>
-    <td align="center" style="width:30%; padding:20px; vertical-align:middle;">
+    <td align="center" width="30%" style="padding:20px; vertical-align:middle;">
       <img
-        src="https://raw.githubusercontent.com/Hariharanpugazh/Hariharanpugazh/main/Teaboy.jpg"
-        alt="Hariharan"
+        src="https://raw.githubusercontent.com/LikithGS11/LikithGS11/main/profile.jpg"
+        alt="Likith G S"
         width="200"
-        style="border-radius:50%; object-fit:cover; border:2px solid #ccc; box-shadow:0 0 8px rgba(0,0,0,0.15);" />
+        style="border-radius:50%; object-fit:cover; border:2px solid rgba(255,255,255,.3);" />
     </td>
 
-    <td style="width:70%; padding:20px; vertical-align:middle;">
-      <h3>Hariharan</h3>
+    <td width="70%" style="padding:20px; vertical-align:middle;">
+      <h3>Likith G S</h3>
+      <p><em>AI / ML Engineer • Full-Stack Developer • GenAI Enthusiast</em></p>
 
       <p>
-        I build practical, AI-driven systems and web applications with a strong focus on clarity, reliability, and real-world usage.
-        My work commonly involves backend development, AI workflows, and applied machine learning.
-      </p>
-
-      <p>
-        Currently building: <a href="https://harlee.pro/projects/bioprompt"><b>BioPrompt.AI</b></a>
+        I build practical, end-to-end AI systems with a strong focus on
+        <b>Machine Learning</b>, <b>Computer Vision</b>, <b>RAG pipelines</b>,
+        and <b>cloud-integrated applications</b>.<br/>
+        Experienced with <b>Python</b>, <b>Flask</b>, <b>Streamlit</b>,
+        <b>OpenCV</b>, and modern GenAI tooling.
       </p>
 
       <ul>
-        <li><b>Exploring:</b> LangGraph, MCP (Model Context Protocol), Gemini and n8n workflows</li>
-        <li><b>Projects:</b> <code>FestiFly-AI</code>, <code>LoveConnect</code>, <code>DeepSecure AI</code>, <code>ZARA Bot</code></li>
-        <li><b>Recognition:</b> <em>All Round Performer Nominee</em> — SNS College of Engineering</li>
-        <li><b>Location:</b> Coimbatore, India • <b>Domain:</b> <a href="https://harlee.pro">harlee.pro</a></li>
+        <li><b>Current Focus:</b> VisionAI, RAG-based chatbots, AI automation workflows</li>
+        <li><b>Key Projects:</b> <code>VisionAI</code>, <code>RAG HR Chatbot</code>, <code>Cloud Aggregator Platform</code></li>
+        <li><b>Experience:</b> AI & ML Intern • Software Engineer Intern • Research Intern</li>
+        <li><b>Location:</b> Bangalore, India • <b>Portfolio:</b>
+          <a href="https://gslikith.figma.site/">gslikith.figma.site</a>
+        </li>
       </ul>
     </td>
   </tr>
 </table>
+
 
 ## Skills & Tools
 
@@ -173,16 +176,16 @@
 
 ## GitHub Dashboard
 
-<table align="center" width="100%" style="border-collapse:separate; border-spacing:12px;">
+<table align="center" width="100%" cellpadding="0" cellspacing="12">
   <tr>
-    <td width="50%" style="padding:0; border-radius:8px;">
+    <td width="50%">
       <img
         src="https://github-readme-stats.vercel.app/api?username=LikithGS11&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"
         alt="GitHub Stats - Likith G S"
         width="100%"
       />
     </td>
-    <td width="50%" style="padding:0; border-radius:8px;">
+    <td width="50%">
       <img
         src="https://streak-stats.demolab.com?user=LikithGS11&theme=github-dark&hide_border=true"
         alt="GitHub Streak - Likith G S"
@@ -190,9 +193,8 @@
       />
     </td>
   </tr>
-
   <tr>
-    <td colspan="2" style="padding:0; border-radius:8px;">
+    <td colspan="2">
       <img
         src="https://github-readme-activity-graph.vercel.app/graph?username=LikithGS11&theme=github-compact&hide_border=true"
         alt="GitHub Activity Graph - Likith G S"
@@ -202,6 +204,8 @@
   </tr>
 </table>
 
+---
+
 ## Visitor Counter
 
 <p align="center">
@@ -210,41 +214,32 @@
     alt="Profile Visitor Count"
   />
 </p>
+
 ---
 
-## Let's Collaborate
+## Let’s Collaborate
 
-<strong>Build Real • Solve Problems • Leave Impact</strong>
+<p align="center"><strong>Build Real • Solve Problems • Leave Impact</strong></p>
 
-<div align="center">
-<table>
-  <tr align="center">
-    <td>
-      <a href="https://gslikith.figma.site/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="40"/><br>
-        <b>Portfolio</b>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/likith-gs" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/><br>
-        <b>LinkedIn</b>
-      </a>
-    </td>
-    <td>
-      <a href="https://gslikith.figma.site/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/><br>
-        <b>Mail</b>
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <a href="https://gslikith.figma.site/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="40"/><br>
+    <b>Portfolio</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/likith-gs" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/><br>
+    <b>LinkedIn</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://gslikith.figma.site/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/><br>
+    <b>Contact</b>
+  </a>
+</p>
+
 ---
 
-
-Built with dedication by Likith G S
-
-</div>
-
-</div>
+<p align="center">
+  Built with dedication by <b>Likith G S</b>
+</p>
