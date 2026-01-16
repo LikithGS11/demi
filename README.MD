@@ -214,22 +214,26 @@
   <tr align="center">
     <td>
       <a href="https://gslikith.figma.site/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="40"/><br>
         <b>Figma Portfolio</b>
       </a>
     </td>
     <td>
       <a href="https://www.linkedin.com/in/likith-gs" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/><br>
         <b>LinkedIn</b>
       </a>
     </td>
     <td>
       <a href="https://gslikith.figma.site/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/><br>
         <b>Mail</b>
       </a>
     </td>
   </tr>
 </table>
 </div>
+---
 
 
 Built with dedication by Likith G S
