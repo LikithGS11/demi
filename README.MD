@@ -215,7 +215,7 @@
     <td>
       <a href="https://gslikith.figma.site/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="40"/><br>
-        <b>Figma Portfolio</b>
+        <b>Portfolio</b>
       </a>
     </td>
     <td>
