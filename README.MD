@@ -173,25 +173,31 @@
 
 ## GitHub Dashboard
 
-<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.08); border-radius:12px;">
+<table align="center" width="100%" style="border-collapse:separate; border-spacing:12px;">
   <tr>
-    <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
+    <td width="50%" style="padding:0; border-radius:8px;">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Hariharanpugazh&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"
-        alt="GitHub Stats for Hariharan P" width="100%">
+        src="https://github-readme-stats.vercel.app/api?username=LikithGS11&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"
+        alt="GitHub Stats - Likith G S"
+        width="100%"
+      />
     </td>
-    <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
+    <td width="50%" style="padding:0; border-radius:8px;">
       <img
-        src="https://streak-stats.demolab.com?user=Hariharanpugazh&theme=github-dark&hide_border=true"
-        alt="GitHub Streak for Hariharan P" width="100%">
+        src="https://streak-stats.demolab.com?user=LikithGS11&theme=github-dark&hide_border=true"
+        alt="GitHub Streak - Likith G S"
+        width="100%"
+      />
     </td>
   </tr>
 
   <tr>
-    <td colspan="2" style="padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
+    <td colspan="2" style="padding:0; border-radius:8px;">
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharanpugazh&theme=github-compact&hide_border=true"
-        alt="GitHub Activity Graph for Hariharan P" width="100%">
+        src="https://github-readme-activity-graph.vercel.app/graph?username=LikithGS11&theme=github-compact&hide_border=true"
+        alt="GitHub Activity Graph - Likith G S"
+        width="100%"
+      />
     </td>
   </tr>
 </table>
@@ -199,11 +205,12 @@
 ## Visitor Counter
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Hariharanpugazh?theme=moebooru" alt="Profile Views">
+  <img
+    src="https://profile-counter.glitch.me/LikithGS11/count.svg"
+    alt="Profile Visitor Count"
+  />
 </p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Hariharanpugazh/count.svg" alt="Visitor Count">
-</p>
+---
 
 ## Let's Collaborate
 
