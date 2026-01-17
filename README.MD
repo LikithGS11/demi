@@ -230,13 +230,6 @@
   <a href="https://www.linkedin.com/in/likith-gs" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/><br>
     <b>LinkedIn</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://gslikith.figma.site/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/><br>
-    <b>Contact</b>
-  </a>
-</p>
 
 ---
 
